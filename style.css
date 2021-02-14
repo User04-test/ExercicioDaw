@@ -1,0 +1,20 @@
+body {
+    margin: 0 auto;
+}
+
+.caixa {
+    margin:  3% 35%;
+    padding: 1%;
+    background-color: aquamarine;
+}
+
+.app {
+    margin: 0 auto;
+}
+
+.tabla {
+    margin: 0 auto;
+    align-items: center;
+    align-content: center;
+    
+}
